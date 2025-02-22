@@ -1,0 +1,1 @@
+This error occurs when using the Expo CLI to build an Android app and involves the `android/app/build.gradle` file.  The specific error message may vary, but it often relates to issues with dependencies, incorrect configurations, or missing files.  For example, you might encounter a message indicating that a specific library is not found or that there's a version conflict.
